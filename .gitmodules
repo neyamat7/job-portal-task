@@ -1,0 +1,6 @@
+[submodule "jobclient"]
+	path = jobclient
+	url = https://github.com/neyamat7/job-portal-client.git
+[submodule "jobserver"]
+	path = jobserver
+	url = https://github.com/neyamat7/job-portal-server.git
